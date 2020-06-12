@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920324810059",
+    "firebase_url": "https://hitit-51235.firebaseio.com",
+    "project_id": "hitit-51235",
+    "storage_bucket": "hitit-51235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920324810059:android:398b7d1181d8be488534ce",
+        "android_client_info": {
+          "package_name": "com.vubird.hitit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920324810059-mc4mrkmm6st84guv6kh2q449fcgfc48q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vubird.hitit",
+            "certificate_hash": "b78ef34736067637fa9bde2e07235567423ea210"
+          }
+        },
+        {
+          "client_id": "920324810059-vn3f3sakojtvrf7mbvmi9hid9qepk2qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPg5NnhChoDwJ3oDYYtLEEMagiY218q7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920324810059-vn3f3sakojtvrf7mbvmi9hid9qepk2qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
